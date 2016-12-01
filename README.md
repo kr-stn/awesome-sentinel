@@ -3,10 +3,11 @@
 A curated list of awesome tools, tutorials and APIs related to data from the [Copernicus Sentinel Satellites](http://www.copernicus.eu/main/sentinels).
 
 ## Data Hubs and National Mirrors
-
+Official datahubs and mirrors by the Copernicus partners.
 - [**Copernicus Sentinels Scientific Datahub (SciHub)**](https://scihub.copernicus.eu/)
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
-- [**French National Mirror**](https://peps.cnes.fr/rocket/)
+- [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
+- [**French National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
 - [**German National Mirror (CODE-DE)**](https://code-de.org/)
 - [**Greek National Mirror**](https://sentinels.space.noa.gr/)
 
