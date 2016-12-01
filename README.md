@@ -5,7 +5,6 @@ A curated list of awesome tools, tutorials and APIs related to data from the [Co
 ## Data Hubs and National Mirrors
 
 - [**Copernicus Sentinels Scientific Datahub (SciHub)**](https://scihub.copernicus.eu/)
-
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
 - [**French National Mirror**](https://peps.cnes.fr/rocket/)
 - [**German National Mirror (CODE-DE)**](https://code-de.org/)
