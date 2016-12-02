@@ -16,7 +16,7 @@ Official datahubs and mirrors by the Copernicus partners.
 Specific to Copernicus Sentinel data download and processing.
 
 ### search & download
-- [**sentinelsat**](https://github.com/ibamacsr/sentinelsat) - search and download from the command line or a Python API
+- [**sentinelsat**](https://github.com/ibamacsr/sentinelsat) - search and download from the command line or with a Python API
 
 ### processing
 - [**SNAP (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/) - (pre-)process any Sentinel data
