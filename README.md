@@ -3,7 +3,7 @@
 A curated list of awesome tools, tutorials and APIs related to data from the [Copernicus Sentinel Satellites](http://www.copernicus.eu/main/sentinels).
 
 ## Data Hubs and National Mirrors
-Official datahubs and mirrors by the Copernicus partners.
+Official datahubs and mirrors by the Copernicus partners and [Collaborative Ground Segment members](https://sentinels.copernicus.eu/web/sentinel/missions/collaborative/national-points-of-contact).
 - [**Copernicus Sentinels Scientific Datahub (SciHub)**](https://scihub.copernicus.eu/)
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
@@ -26,6 +26,6 @@ Specific to Copernicus Sentinel data download and processing.
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
 - [**AWS (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
   - public S3 bucket, Sentinel-2 only, hosted in region eu-central-1 (Frankfurt)
-- [**Google**](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1)
+- [**Google (Sentinel-2)**](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1)
   - public Google Storage bucket, `.SAFE` format, EU region
 
