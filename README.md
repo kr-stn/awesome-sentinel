@@ -20,7 +20,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 
 ### Cloud providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
-- [**AWS (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
+- [**Amazon Web Services (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
   - public S3 bucket, Sentinel-2 only, hosted in region eu-central-1 (Frankfurt)
 - [**Google (Sentinel-2)**](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1)
   - public Google Storage bucket, `.SAFE` format, EU region
@@ -33,7 +33,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 
 ### processing
 - [**SNAP (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/) - (pre-)process any Sentinel data
-
+- [**Google Earth Engine**](https://earthengine.google.com/) - process the global Sentinel-1 and Sentinel-2 archives directly on Googles servers
 
 
 
