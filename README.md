@@ -7,7 +7,6 @@ A curated list of awesome tools, tutorials and APIs related to data from the [Co
 ### Data Hubs and National Mirrors
 Official datahubs and mirrors by the Copernicus partners and [Collaborative Ground Segment members](https://sentinels.copernicus.eu/web/sentinel/missions/collaborative/national-points-of-contact).
 - [**Copernicus Sentinels Scientific Datahub (SciHub)**](https://scihub.copernicus.eu/)
-
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
 - [**French National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
@@ -31,17 +30,25 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 Specific to Copernicus Sentinel data discovery, download and processing.
 
 ### search & download
-- [**`sentinelsat`**](https://github.com/ibamacsr/sentinelsat) - search and download from any Datahub. Comes with an intuitive command line and a felxible Python API.
-- [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) - download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
-- [**`peps_download`**](https://github.com/olivierhagolle/peps_download) -  download data from the French National Mirror (PEPS).
-- [**`Sentinel2ProductIngestor`**](https://github.com/sinergise/Sentinel2ProductIngestor) - ingest Sentinel-2 data from SciHub into S3. Used by [Sinergise](https://github.com/sinergise) to populate the [AWS Sentinel-2 mirror](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
-- [**`sat-download`**](https://github.com/sat-utils/sat-download) - download Sentinel-2 data from AWS
-- [**`sat-api`**](https://github.com/sat-utils/sat-api) - query Sentinel-2 data on AWS using APIGateWay
+- [**`sentinelsat`**](https://github.com/ibamacsr/sentinelsat)
+  - search and download from any Datahub. Comes with an intuitive command line and a felxible Python API.
+- [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download)
+  - download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
+- [**`peps_download`**](https://github.com/olivierhagolle/peps_download)
+  -  download data from the French National Mirror (PEPS).
+- [**`Sentinel2ProductIngestor`**](https://github.com/sinergise/Sentinel2ProductIngestor)
+  - ingest Sentinel-2 data from SciHub into S3. Used by [Sinergise](https://github.com/sinergise) to populate the [AWS Sentinel-2 mirror](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
+- [**`sat-download`**](https://github.com/sat-utils/sat-download)
+  - download Sentinel-2 data from AWS
+- [**`sat-api`**](https://github.com/sat-utils/sat-api)
+  - query Sentinel-2 data on AWS using APIGateWay
 
 
 ### processing
-- [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/) - (pre-)process any Sentinel data
-- [**Google Earth Engine**](https://earthengine.google.com/) - process the global Sentinel-1 and Sentinel-2 archives directly on Googles servers
+- [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
+  - (pre-)process any Sentinel data
+- [**Google Earth Engine**](https://earthengine.google.com/)
+  - process the global Sentinel-1 and Sentinel-2 archives directly on Googles servers
 
 
 
