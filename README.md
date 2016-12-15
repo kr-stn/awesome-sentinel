@@ -45,7 +45,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
   
  ### viewers & browsers
- - [**Sinergise "Sentinel-Hub" (Sentinel-2)**](http://sentinel-hub.com/)
+- [**Sinergise "Sentinel-Hub" (Sentinel-2)**](http://sentinel-hub.com/)
   - visualize AWS Sentinel-2 data in different band combinations. Also offers a WMS/WMTS service.
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
   - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
