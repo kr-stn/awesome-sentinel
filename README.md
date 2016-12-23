@@ -44,12 +44,14 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - query Sentinel-2 data on AWS using APIGateWay
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
   
- ### viewers & browsers
+### viewers & browsers
 - [**Sinergise "Sentinel-Hub" (Sentinel-2)**](http://sentinel-hub.com/)
   - visualize AWS Sentinel-2 data in different band combinations. Also offers a WMS/WMTS service.
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
   - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
   - uses [**`sat-api`**](https://github.com/sat-utils/sat-api)
+- [**AWS/Singergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
+  - search Sentinel-2 data available on Amazon Webservices
 
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
