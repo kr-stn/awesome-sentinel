@@ -10,6 +10,7 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**Copernicus Sentinels Scientific Datahub (SciHub)**](https://scihub.copernicus.eu/)
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
+- [**Finnish National Mirror**](https://finhub.nsdc.fmi.fi/)
 - [**French National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
 - [**German National Mirror (CODE-DE)**](https://code-de.org/)
 - [**Greek National Mirror**](https://sentinels.space.noa.gr/)
@@ -60,7 +61,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
 - [**Google Earth Engine**](https://earthengine.google.com/)
-  - process the global Sentinel-1 and Sentinel-2 archives directly on Googles servers
+  - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
 
 
 
