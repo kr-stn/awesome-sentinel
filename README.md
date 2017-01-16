@@ -51,14 +51,19 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
   
 ### viewers & browsers
-- [**Sinergise "Sentinel-Hub" (Sentinel-2)**](http://sentinel-hub.com/)
-  - visualize AWS Sentinel-2 data in different band combinations. Also offers a WMS/WMTS service.
+- [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
+  - search Sentinel-2 data available on Amazon Webservices
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
   - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
   - uses [**`sat-api`**](https://github.com/sat-utils/sat-api)
-- [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
-  - search Sentinel-2 data available on Amazon Webservices
-
+- [**Sinergise "Sentinel Playground" (Sentinel-2)**](http://apps.sentinel-hub.com/sentinel-playground)
+  - visualize AWS Sentinel-2 data in different band combinations ando offers a [WMS/WMTS service](http://www.sentinel-hub.com/apps/wms).
+- [**EOSDA "Land Viewer"**](https://lv.eosda.com/)
+  - viewer for Landsat-8 and Sentinel-2 data hosted by AWS
+- [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
+  - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
+  - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
+  
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
