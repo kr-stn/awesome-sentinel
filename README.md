@@ -67,6 +67,10 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
+  - also available as [docker](https://github.com/edwardpmorris/docker-snap)
+- [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
+  - athmospheric correction of Sentinel-2 data
+  - also available as [python package](https://github.com/umwilm/SEN2COR)
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
 
