@@ -19,8 +19,9 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 ### Partial Mirrors
 Innitiatives to integrate specific Sentinel data into existing search and discovery platforms.
 
-- [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 - [**Alaska Satellite Facility (Sentinel-1)**](https://www.asf.alaska.edu/sentinel/)
+- [**Centre for Environmental Data Analysis - CEDA (Sentinel-1, -2)**](http://catalogue.ceda.ac.uk/search/?search_term=sentinel&return_obj=ob&search_obj=ob)
+- [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 
 ### Cloud providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
