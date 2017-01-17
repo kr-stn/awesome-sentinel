@@ -22,6 +22,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 
 - [**Alaska Satellite Facility (Sentinel-1)**](https://www.asf.alaska.edu/sentinel/)
 - [**Centre for Environmental Data Analysis - CEDA (Sentinel-1, -2)**](http://catalogue.ceda.ac.uk/search/?search_term=sentinel&return_obj=ob&search_obj=ob)
+- [**Theia (Sentinel-2)**](https://theia.cnes.fr/atdistrib/rocket/#/search?collection=SENTINEL2) tiles covering France only, athmospherically corrected L2A
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 
 ### Cloud providers
@@ -29,8 +30,8 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 
 - [**Amazon Web Services (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
   - public S3 bucket, Sentinel-2 only, hosted in region eu-central-1 (Frankfurt)
-- [**Google (Sentinel-2)**](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1)
-  - public Google Storage bucket, `.SAFE` format, EU region
+- [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
+  - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
   
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
