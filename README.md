@@ -32,6 +32,8 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
   - public S3 bucket, Sentinel-2 only, hosted in region eu-central-1 (Frankfurt)
 - [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
+- [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
+  - Sentinel-2 included in commercial API
   
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
@@ -76,6 +78,3 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - also available as [python package](https://github.com/umwilm/SEN2COR)
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
-
-
-
