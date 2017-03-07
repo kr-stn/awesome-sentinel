@@ -68,6 +68,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
   - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
+- - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
+  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
+  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
   
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
