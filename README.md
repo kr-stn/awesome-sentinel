@@ -71,6 +71,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
+  - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
   
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
