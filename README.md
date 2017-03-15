@@ -34,7 +34,7 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
   - Sentinel-2 included in commercial API
-  
+
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
 
@@ -54,26 +54,29 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
 - [**`awsdownload`**](https://github.com/kraftek/awsdownload)
   - downloader for Sentinel-2 products from Amazon or SciHub
-  
+
 ### viewers & browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
   - search Sentinel-2 data available on Amazon Webservices
+- [**EOSDA "Land Viewer"**](https://lv.eosda.com/)
+  - viewer for Landsat-8 and Sentinel-2 data hosted by AWS
+- [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
+  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
+  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
+  - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
+  - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
+- [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
+  - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
   - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
   - uses [**`sat-api`**](https://github.com/sat-utils/sat-api)
 - [**Sinergise "Sentinel Playground"**](http://apps.sentinel-hub.com/sentinel-playground)
   - visualize AWS Sentinel-2 data in different band combinations ando offers a [WMS/WMTS service](http://www.sentinel-hub.com/apps/wms).
-- [**EOSDA "Land Viewer"**](https://lv.eosda.com/)
-  - viewer for Landsat-8 and Sentinel-2 data hosted by AWS
-- [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
-  - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
-  - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
-- [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
-  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
-  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
-  - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
-  
+- [**Sinergise "EO-browser"**](http://apps.sentinel-hub.com/eo-browser/)
+  - search Sentinel-2, Sentinel-3, Landsat and Proba-V data
+  - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
+
 ### processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
