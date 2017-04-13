@@ -10,13 +10,13 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**Copernicus Open Access Hub (SciHub)**](https://scihub.copernicus.eu/)
 - [**Australia National Mirror**](http://www.copernicus.gov.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
-- [**Finnish National Mirror**](https://finhub.nsdc.fmi.fi/)
-- [**French National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
-- [**German National Mirror (CODE-DE)**](https://code-de.org/)
-- [**Greek National Mirror**](https://sentinels.space.noa.gr/)
-- [**Italian National Mirror**](http://collaborative.mt.asi.it/)
-- [**Swedish National Mirror (SWEA)**](http://swea.rymdstyrelsen.se/portal/)
-- [**UK National Mirror (SEDAS)**](http://sedas.satapps.org/)
+- [**Finland National Mirror**](https://finhub.nsdc.fmi.fi/)
+- [**France National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
+- [**Germany National Mirror (CODE-DE)**](https://code-de.org/)
+- [**Greece National Mirror**](https://sentinels.space.noa.gr/)
+- [**Italy National Mirror**](http://collaborative.mt.asi.it/)
+- [**Sweden National Mirror (SWEA)**](http://swea.rymdstyrelsen.se/portal/)
+- [**United Kingdom National Mirror (SEDAS)**](http://sedas.satapps.org/)
 
 ### Partial Mirrors
 Innitiatives to integrate specific Sentinel data into existing search and discovery platforms.
