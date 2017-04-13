@@ -15,6 +15,7 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**German National Mirror (CODE-DE)**](https://code-de.org/)
 - [**Greek National Mirror**](https://sentinels.space.noa.gr/)
 - [**Italian National Mirror**](http://collaborative.mt.asi.it/)
+- [**Swedish National Mirror (SWEA)**](http://swea.rymdstyrelsen.se/portal/)
 - [**UK National Mirror (SEDAS)**](http://sedas.satapps.org/)
 
 ### Partial Mirrors
