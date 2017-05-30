@@ -42,7 +42,7 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 Specific to Copernicus Sentinel data discovery, download and processing.
 
 ### search & download
-- [**`sentinelsat`**](https://github.com/ibamacsr/sentinelsat)
+- [**`sentinelsat`**](https://github.com/sentinelsat/sentinelsat)
   - search and download from any Datahub. Comes with an intuitive command line and a flexible Python API.
 - [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download)
   - download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
