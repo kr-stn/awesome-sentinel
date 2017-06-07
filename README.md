@@ -61,8 +61,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 ### viewers & browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
   - search Sentinel-2 data available on Amazon Webservices
-- [**EOSDA "Land Viewer"**](https://lv.eosda.com/)
-  - viewer for Landsat-8 and Sentinel-2 data hosted by AWS
+- [**EOS "Land Viewer"**](https://lv.eos.com/)
+  - viewer for Landsat-8/7, MODIS and Sentinel-2 data hosted by AWS
+  - visualize band combinations on-the-fly
 - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
