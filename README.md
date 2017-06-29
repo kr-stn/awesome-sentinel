@@ -57,6 +57,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
 - [**`awsdownload`**](https://github.com/kraftek/awsdownload)
   - downloader for Sentinel-2 products from Amazon or SciHub
+- [**`sentinelhub`**](https://github.com/sinergise/sentinelhub)
+  - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
 
 ### viewers & browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
