@@ -92,6 +92,6 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - also available as [python package](https://github.com/umwilm/SEN2COR)
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
-- [**Sen2-Agri**](https://github.com/Sen2Agri/Sen2Agri-System)
+- [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - consists of independent modules and and [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
