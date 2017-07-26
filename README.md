@@ -28,6 +28,8 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**Theia (Sentinel-2)**](https://theia.cnes.fr/atdistrib/rocket/#/search?collection=SENTINEL2)
   - atmospherically corrected L2A tiles covering France and [areas proposed by French scientists](http://www.cesbio.ups-tlse.fr/multitemp/?page_id=7501)
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
+- [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
+  - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
 
 ### Cloud providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
