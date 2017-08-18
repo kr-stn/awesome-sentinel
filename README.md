@@ -70,8 +70,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - viewer for Landsat-8/7, MODIS and Sentinel-2 data hosted by AWS
   - visualize band combinations on-the-fly
 - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
-  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), Sentinel-2 composite covering Europe
-  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
+  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on S3 bucket
 - [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
   - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
