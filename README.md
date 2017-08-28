@@ -94,8 +94,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
   - atmospheric correction of Sentinel-2 data
   - also available as [python package](https://github.com/umwilm/SEN2COR)
-- [** MAJA ** ](https://logiciels.cnes.fr/en/content/maja)
-  - multi-temporal cloud screening and atmospheric correction software that uses time series to better detect coulds and correct atmospheric effects on Sentinel-2 data. Also used within Theia production described above. Developped by CNES, CESBIO and DLR.
+- [**MAJA** ](https://logiciels.cnes.fr/en/content/maja)
+  - multi-temporal cloud screening and atmospheric correction software that uses time series to better detect coulds and correct atmospheric effects on Sentinel-2 data. Also used within Theia production described above. Developed by CNES, CESBIO and DLR.
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
