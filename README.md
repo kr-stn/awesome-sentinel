@@ -26,7 +26,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**Alaska Satellite Facility (Sentinel-1)**](https://www.asf.alaska.edu/sentinel/)
 - [**Centre for Environmental Data Analysis - CEDA (Sentinel-1, -2)**](http://catalogue.ceda.ac.uk/search/?search_term=sentinel&return_obj=ob&search_obj=ob)
 - [**Theia (Sentinel-2)**](https://theia.cnes.fr/atdistrib/rocket/#/search?collection=SENTINEL2)
-  - atmospherically corrected L2A tiles covering France and [areas proposed by French scientists](http://www.cesbio.ups-tlse.fr/multitemp/?page_id=7501)
+  - near real time distribution of atmospherically corrected L2A tiles covering several European countries (Belgium, Italy, France, Luxembourg, Netherlands, Portugal, Spain, Switzerland, parts of Austria, Germany and UK)  and [areas proposed by French scientists](http://www.cesbio.ups-tlse.fr/multitemp/?page_id=7501)
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
@@ -92,10 +92,12 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - (pre-)process any Sentinel data
   - also available as [docker](https://github.com/edwardpmorris/docker-snap)
 - [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
-  - athmospheric correction of Sentinel-2 data
+  - atmospheric correction of Sentinel-2 data
   - also available as [python package](https://github.com/umwilm/SEN2COR)
+- [**MAJA** ](https://logiciels.cnes.fr/en/content/maja)
+  - multi-temporal cloud screening and atmospheric correction software that uses time series to better detect coulds and correct atmospheric effects on Sentinel-2 data. Also used within Theia production described above. Developed by CNES, CESBIO and DLR.
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
-  - toolbox for processing images for agricultural purposes
+  - toolbox for processing images for agricultural purposes : atmospheric correction (with MAJA), monthly syntheses, biophysical variables, crom mask and crop-type classification
   - consists of independent modules and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
