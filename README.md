@@ -27,6 +27,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**Centre for Environmental Data Analysis - CEDA (Sentinel-1, -2)**](http://catalogue.ceda.ac.uk/search/?search_term=sentinel&return_obj=ob&search_obj=ob)
 - [**Theia (Sentinel-2)**](https://theia.cnes.fr/atdistrib/rocket/#/search?collection=SENTINEL2)
   - atmospherically corrected L2A products covering several European countries and [areas proposed by scientists](http://www.cesbio.ups-tlse.fr/multitemp/?page_id=7501)
+  - published less than two days after L1C is available
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
