@@ -98,6 +98,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`MAJA` (MACCS ATCOR Joint Algorithm)** ](https://logiciels.cnes.fr/en/content/maja)
   - atmospheric correction of Sentinel-2 data using time series
   - used for [Theia](https://theia.cnes.fr/atdistrib/rocket/#/search?collection=SENTINEL2) and [`Sen2-Agri`](https://github.com/Sen2Agri/Sen2Agri-System)
+- [**`iCOR`**](https://blog.vito.be/remotesensing/icor_available)
+  - atmospheric correction of Sentinel-2 data
+  - available as `SNAP` plugin
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
