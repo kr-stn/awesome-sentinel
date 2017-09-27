@@ -32,7 +32,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
 
-### Cloud providers
+### Cloud Providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
 
 - [**Amazon Web Services (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
@@ -45,7 +45,7 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
 
-### search & download
+### Search & Download
 - [**`sentinelsat`**](https://github.com/sentinelsat/sentinelsat)
   - search and download from any Datahub. Comes with an intuitive command line and a flexible Python API.
 - [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download)
@@ -64,7 +64,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`sentinelhub`**](https://github.com/sinergise/sentinelhub)
   - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
 
-### viewers & browsers
+### Viewers & Browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
   - search Sentinel-2 data available on Amazon Webservices
 - [**EOS "Land Viewer"**](https://lv.eos.com/)
@@ -84,13 +84,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - search Sentinel-2, Sentinel-3, Landsat and Proba-V data
   - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
 
-### products
-- [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
-  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
-  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-  - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on S3 bucket
-
-### processing
+### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
   - also available as [docker](https://github.com/edwardpmorris/docker-snap)
@@ -108,3 +102,11 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
+  
+ ## Products
+ Products, datasets and applications generated from Copernicus Sentinel data.
+ 
+- [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
+  - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
+  - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on S3 bucket
