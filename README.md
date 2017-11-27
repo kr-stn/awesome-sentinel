@@ -77,7 +77,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
   - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
-  - uses [**`sat-api`**](https://github.com/sat-utils/sat-api)
+  - supports on-the-fly display and calculation of band combinations
+  - uses [**`remotepixel-api`**](https://github.com/RemotePixel/remotepixel-api) (based on AWS Lambda)
 - [**Sinergise "Sentinel Playground"**](http://apps.sentinel-hub.com/sentinel-playground)
   - visualize AWS Sentinel-2 data in different band combinations
   - offers a [WMS/WMTS service](http://www.sentinel-hub.com/apps/wms).
