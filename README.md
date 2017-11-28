@@ -104,6 +104,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
+  - - [**`ORFEO ToolBox`**](https://www.orfeo-toolbox.org/)
+  - state-of-the-art remote sensing, including a fast image viewer, apps callable from Bash, Python or QGIS, and a C++ API
+  - wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and [much more](https://www.orfeo-toolbox.org/CookBook/Applications.html)
   
  ## Products
  Products, datasets and applications generated from Copernicus Sentinel data.
