@@ -63,6 +63,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - downloader for Sentinel-2 products from Amazon or SciHub
 - [**`sentinelhub`**](https://github.com/sinergise/sentinelhub)
   - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
+- [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
+  - Simple Serverless API for satellite data hosted on AWS Public Dataset
 
 ### Viewers & Browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
@@ -75,8 +77,11 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
 - [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
+- [**RemotePixel "Viewer"**](https://viewerremotepixel.ca)
+  - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
+  - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
-  - [open source](https://github.com/RemotePixel/satellitesearch) viewer for Landsat-8 and Sentinel-2 data hosted by AWS
+  - [open source](https://github.com/RemotePixel/satellitesearch) Browser for Landsat-8 and Sentinel-2 data hosted by AWS
   - supports on-the-fly display and calculation of band combinations
   - uses [**`remotepixel-api`**](https://github.com/RemotePixel/remotepixel-api) (based on AWS Lambda)
 - [**Sinergise "Sentinel Playground"**](http://apps.sentinel-hub.com/sentinel-playground)
