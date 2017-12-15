@@ -77,7 +77,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
 - [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
-- [**RemotePixel "Viewer"**](https://viewerremotepixel.ca)
+- [**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)
   - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
   - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
 - [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
