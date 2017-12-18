@@ -65,6 +65,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
+- [**`sentinel_s3`**](https://github.com/beaorn/sentinel_s3)
+  - Ruby gem for parsing Sentinel-2 metadata from AWS S3
 
 ### Viewers & Browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
@@ -109,10 +111,10 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
-  
+
  ## Products
  Products, datasets and applications generated from Copernicus Sentinel data.
- 
+
 - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
