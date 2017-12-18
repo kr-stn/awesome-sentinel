@@ -65,8 +65,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
-- [**`sentinel_s3`**](https://github.com/beaorn/sentinel_s3)
-  - Ruby gem for parsing Sentinel-2 metadata from AWS S3
+- [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
+  - Ruby gem for parsing Sentinel-2 metadata from AWS
 
 ### Viewers & Browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
