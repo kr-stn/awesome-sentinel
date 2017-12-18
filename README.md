@@ -66,7 +66,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
 - [**`sentinel_s3`**](https://github.com/beaorn/sentinel_s3)
-  - Ruby library for extracting Sentinel-2 product and tile metadata from AWS
+  - Ruby gem for parsing Sentinel-2 metadata from AWS S3
 
 ### Viewers & Browsers
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
