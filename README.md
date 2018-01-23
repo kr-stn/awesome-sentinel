@@ -2,6 +2,8 @@
 
 A curated list of awesome tools, tutorials and APIs related to data from the [Copernicus Sentinel Satellites](http://www.copernicus.eu/main/sentinels).
 
+![Copernicus logo](http://emergency.copernicus.eu/mapping/sites/all/themes/gmes960/images/Copernicus_fb.png)
+
 ## Data Access
 
 ### Data Hubs and National Mirrors
