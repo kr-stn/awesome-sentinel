@@ -115,8 +115,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
   - [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
 
- ## Products
- Products, datasets and applications generated from Copernicus Sentinel data.
+## Products
+Products, datasets and applications generated from Copernicus Sentinel data.
 
 - [**EOX "Sentinel-2 cloudless"**](https://s2maps.eu/)
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
