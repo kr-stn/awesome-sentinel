@@ -89,7 +89,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**Sinergise "Sentinel Playground"**](http://apps.sentinel-hub.com/sentinel-playground)
   - visualize AWS Sentinel-2 data in different band combinations
   - offers a [WMS/WMTS service](http://www.sentinel-hub.com/apps/wms).
-- [**Sinergise "EO-browser"**](http://apps.sentinel-hub.com/eo-browser/)
+- [**Sinergise "Sentinel-Hub"**](https://www.sentinel-hub.com/)
   - search Sentinel-1, 2, 3 and other free satellite data
   - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
 
@@ -111,6 +111,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
+- [**`sentinel2-cloud-detector`**](https://github.com/sentinel-hub/sentinel2-cloud-detector)
+  - single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
+  - [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
 
  ## Products
  Products, datasets and applications generated from Copernicus Sentinel data.
