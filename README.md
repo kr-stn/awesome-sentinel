@@ -94,6 +94,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**Sinergise "Sentinel-Hub"**](https://www.sentinel-hub.com/)
   - search Sentinel-1, 2, 3 and other free satellite data
   - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
+- [**SnapPlanet**](https://snapplanet.io/)
+  - [Android](https://play.google.com/store/apps/details?id=io.snapplanet.app) / [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1175935057) App to to view Sentinel-2 images, compare changes and share
 
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
