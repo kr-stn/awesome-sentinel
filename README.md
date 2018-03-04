@@ -81,6 +81,16 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
 - [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
+- [**OceanDataLab "ESA Sentinel-3 Viewer"**](https://s3view.oceandatalab.com)
+  - viewer for Sentinel-3 in near-real time
+- [**OceanDataLab "MPC Sentinel-1 portal"**](https://mpc-sentinel1.oceandatalab.com)
+  - viewer for products delivered from Sentinel-1. Products include information about wind speed, sea ice concentration, roughness.
+- [**OceanDataLab "Ocean Virtual Laboratory"**](https://ovl.oceandatalab.com)
+  - viewer for products delivered from Sentinel-1, Sentinel-2 and Sentinel-3, Envisat, MODIS, VIRS and more. Products include information about roughness, ocean color, chlorophyll, temperature, sea level, salinity, wind, waves, current
+- [**OceanDataLab "PEPS Sentinel data portal"**](https://peps.oceandatalab.com)
+  - viewer for products delivered from Sentinel-1 for water areas
+- [**OceanDataLab "SWARP portal"**](https://ovl.oceandatalab.com)
+  - viewer for products delivered from Sentinel-1, AMSR, ASCAT and models
 - [**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)
   - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
   - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
