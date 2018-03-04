@@ -81,6 +81,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
 - [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
+  - all satellite tiles enriched with more metadata (terrain statistics, NDVI at overpass, climatic parameters, population count etc.)
 - [**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)
   - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
   - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
@@ -101,6 +102,14 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
   - also available as [docker](https://github.com/edwardpmorris/docker-snap)
+- [**`GEE` (Google Earth Engine)**](https://earthengine.google.com/)
+  - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
+- [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
+  - toolbox for processing images for agricultural purposes
+  - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
+- [**`sentinel2-cloud-detector`**](https://github.com/sentinel-hub/sentinel2-cloud-detector)
+  - single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
+  - [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
 - [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
   - atmospheric correction of Sentinel-2 data
   - also available as [python package](https://github.com/umwilm/SEN2COR)
@@ -110,14 +119,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`iCOR`**](https://blog.vito.be/remotesensing/icor_available)
   - atmospheric correction of Sentinel-2 data
   - available as `SNAP` plugin
-- [**Google Earth Engine**](https://earthengine.google.com/)
-  - process the global Sentinel-1 and Sentinel-2 archives directly on Google's servers
-- [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
-  - toolbox for processing images for agricultural purposes
-  - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
-- [**`sentinel2-cloud-detector`**](https://github.com/sentinel-hub/sentinel2-cloud-detector)
-  - single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
-  - [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
+- [**`ARCSI` (Atmospheric and Radiometric Correction of Satellite Imagery)**](https://www.arcsi.remotesensing.info/)
+  - atmospheric correction of Sentinel-2 data
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
