@@ -136,3 +136,7 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
+
+## Tutorials
+- [**Research and User Support (RUS)**](https://rus-copernicus.eu/)
+  - [tutorials](https://rus-copernicus.eu/portal/the-rus-library/learn-by-yourself/), [e-learning](https://rus-training.eu/course), [webinars](https://rus-training.eu/training/past)
