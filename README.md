@@ -108,6 +108,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - [Android](https://play.google.com/store/apps/details?id=io.snapplanet.app) / [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1175935057) App to to view Sentinel-2 images, compare changes and share
 
 ### Processing
+- [**`TEPs` (Thematic Exploitation Platforms)**](http://step.esa.int/main/toolboxes/snap/)
+  - thematic platforms for Sentinel data (pre-)processing
+  - available platforms: [coastal](https://coastal-tep.eo.esa.int/portal), [forestry](https://forestry-tep.eo.esa.int/), [geohazards](https://geohazards-tep.eo.esa.int/), [hydrology](https://hydrology-tep.eo.esa.int/#!), [polar](https://portal.polar-tep.eo.esa.int/ssoportal/pages/login.jsf), [urban](https://urban-tep.eo.esa.int/#!), [food security](https://foodsecurity-tep.eo.esa.int/)
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
   - also available as [docker](https://github.com/edwardpmorris/docker-snap)
