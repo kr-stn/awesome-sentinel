@@ -130,7 +130,6 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - atmospheric correction of Sentinel-2 data
   - basis for [L2A](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/level-2a/algorithm) data published on Copernicus Open Access Hub
 
-
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
 
