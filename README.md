@@ -63,8 +63,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - deployed by Development Seed at [https://api.developmentseed.org/satellites](https://api.developmentseed.org/satellites)
 - [**`awsdownload`**](https://github.com/kraftek/awsdownload)
   - downloader for Sentinel-2 products from Amazon or SciHub
-- [**`sentinelhub`**](https://github.com/sinergise/sentinelhub)
-  - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format.
+- [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py)
+  - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
@@ -102,7 +102,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
 - [**SnapPlanet**](https://snapplanet.io/)
   - [Android](https://play.google.com/store/apps/details?id=io.snapplanet.app) / [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1175935057) App to to view Sentinel-2 images, compare changes and share
-- [**Thematic Exploitation Platforms `TEPs`**](https://tep.eo.esa.int/)
+- [**Thematic Exploitation Platforms "TEPs"**](https://tep.eo.esa.int/)
   - platforms for finding and processing (Sentinel) data relating to a thematic topic
   - available platforms: [Coastal](https://coastal-tep.eo.esa.int/portal), [Forestry](https://forestry-tep.eo.esa.int/), [Geohazards](https://geohazards-tep.eo.esa.int/), [Hydrology](https://hydrology-tep.eo.esa.int/), [Polar](https://polar-tep.eo.esa.int/), [Urban](https://urban-tep.eo.esa.int/#!), [Food Security](https://foodsecurity-tep.eo.esa.int/)
 
@@ -138,4 +138,3 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
-
