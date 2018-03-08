@@ -70,7 +70,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 
-### Viewers & Browsers
+### Viewers & Portals
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
   - search Sentinel-2 data available on Amazon Webservices
 - [**EOS "Land Viewer"**](https://lv.eos.com/)
@@ -81,16 +81,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
 - [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
-- [**OceanDataLab "ESA Sentinel-3 Viewer"**](https://s3view.oceandatalab.com)
-  - viewer for Sentinel-3 in near-real time
-- [**OceanDataLab "MPC Sentinel-1 portal"**](https://mpc-sentinel1.oceandatalab.com)
-  - viewer for products delivered from Sentinel-1. Products include information about wind speed, sea ice concentration, roughness.
-- [**OceanDataLab "Ocean Virtual Laboratory"**](https://ovl.oceandatalab.com)
-  - viewer for products delivered from Sentinel-1, Sentinel-2 and Sentinel-3, Envisat, MODIS, VIRS and more. Products include information about roughness, ocean color, chlorophyll, temperature, sea level, salinity, wind, waves, current
-- [**OceanDataLab "PEPS Sentinel data portal"**](https://peps.oceandatalab.com)
-  - viewer for products delivered from Sentinel-1 for water areas
-- [**OceanDataLab "SWARP portal"**](https://ovl.oceandatalab.com)
-  - viewer for products delivered from Sentinel-1, AMSR, ASCAT and models
+- [**OceanDataLab**](https://www.oceandatalab.com)
+  - portals focussing on Ocean Remote Sensing data, including Sentinel-1 and 3
 - [**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)
   - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
   - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
@@ -98,6 +90,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - [open source](https://github.com/RemotePixel/satellitesearch) Browser for Landsat-8 and Sentinel-2 data hosted by AWS
   - supports on-the-fly display and calculation of band combinations
   - uses [**`remotepixel-api`**](https://github.com/RemotePixel/remotepixel-api) (based on AWS Lambda)
+- [**Research and User Support (RUS)**](https://rus-copernicus.eu/)
+  - service portal to promote the uptake of Copernicus data and scaling of R&D activities
+  - provides [training](https://rus-copernicus.eu/portal/the-rus-offer/training/) and [computing environments](https://rus-copernicus.eu/portal/the-rus-offer/ict-offer/)
 - [**Sinergise "Sentinel Playground"**](http://apps.sentinel-hub.com/sentinel-playground)
   - visualize AWS Sentinel-2 data in different band combinations
   - offers a [WMS/WMTS service](http://www.sentinel-hub.com/apps/wms).
@@ -106,11 +101,11 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - supports pixel based band-math operations and [simple data processing](http://www.sentinel-hub.com/blog/eo-browser-goes-public)
 - [**SnapPlanet**](https://snapplanet.io/)
   - [Android](https://play.google.com/store/apps/details?id=io.snapplanet.app) / [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1175935057) App to to view Sentinel-2 images, compare changes and share
+- [**Thematic Exploitation Platforms `TEPs`**](https://tep.eo.esa.int/)
+  - platforms for finding and processing (Sentinel) data relating to a thematic topic
+  - available platforms: [Coastal](https://coastal-tep.eo.esa.int/portal), [Forestry](https://forestry-tep.eo.esa.int/), [Geohazards](https://geohazards-tep.eo.esa.int/), [Hydrology](https://hydrology-tep.eo.esa.int/), [Polar](https://polar-tep.eo.esa.int/), [Urban](https://urban-tep.eo.esa.int/#!), [Food Security](https://foodsecurity-tep.eo.esa.int/)
 
 ### Processing
-- [**`TEPs` (Thematic Exploitation Platforms)**](http://step.esa.int/main/toolboxes/snap/)
-  - thematic platforms for Sentinel data (pre-)processing
-  - available platforms: [coastal](https://coastal-tep.eo.esa.int/portal), [forestry](https://forestry-tep.eo.esa.int/), [geohazards](https://geohazards-tep.eo.esa.int/), [hydrology](https://hydrology-tep.eo.esa.int/#!), [polar](https://portal.polar-tep.eo.esa.int/ssoportal/pages/login.jsf), [urban](https://urban-tep.eo.esa.int/#!), [food security](https://foodsecurity-tep.eo.esa.int/)
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
   - also available as [docker](https://github.com/edwardpmorris/docker-snap)
@@ -140,6 +135,3 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
 
-## Tutorials
-- [**Research and User Support (RUS)**](https://rus-copernicus.eu/)
-  - [tutorials](https://rus-copernicus.eu/portal/the-rus-library/learn-by-yourself/), [e-learning](https://rus-training.eu/course), [webinars](https://rus-training.eu/training/past)
