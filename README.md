@@ -68,9 +68,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
 - [**`sentinel2-search-api`**](https://github.com/beaorn/sentinel2-search-api)
-  - Simple API to query Sentinel-2 data hosted on AWS by MGRS
-  - deployed at [https://sentinel2.satgateway.com](https://sentinel2.satgateway.com)
-  - tile preview front-end deployed at [https://s2viewer.satgateway.com](https://s2viewer.satgateway.com)
+  - query Sentinel-2 data hosted on AWS by MGRS tile
+  - API deployed at [https://sentinel2.satgateway.com](https://sentinel2.satgateway.com), tile preview front-end deployed at [https://s2viewer.satgateway.com](https://s2viewer.satgateway.com)
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 
@@ -107,8 +106,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**SnapPlanet**](https://snapplanet.io/)
   - [Android](https://play.google.com/store/apps/details?id=io.snapplanet.app) / [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1175935057) App to to view Sentinel-2 images, compare changes and share
 - [**Spectator**](https://spectator.earth/)
-  - offers real-time tracking of EO satellites, managing and sharing observations
-  - allows to search and preview Sentinel-1, 2, 3 data and more
+  - real-time tracking of EO satellites, set-up custom channels to track ROI overpass and preview images
 - [**Thematic Exploitation Platforms "TEPs"**](https://tep.eo.esa.int/)
   - platforms for finding and processing (Sentinel) data relating to a thematic topic
   - available platforms: [Coastal](https://coastal-tep.eo.esa.int/portal), [Forestry](https://forestry-tep.eo.esa.int/), [Geohazards](https://geohazards-tep.eo.esa.int/), [Hydrology](https://hydrology-tep.eo.esa.int/), [Polar](https://polar-tep.eo.esa.int/), [Urban](https://urban-tep.eo.esa.int/#!), [Food Security](https://foodsecurity-tep.eo.esa.int/)
