@@ -67,6 +67,10 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
 - [**`aws-sat-api`**](https://github.com/RemotePixel/aws-sat-api)
   - Simple Serverless API for satellite data hosted on AWS Public Dataset
+- [**`sentinel2-search-api`**](https://github.com/beaorn/sentinel2-search-api)
+  - Simple API to query Sentinel-2 data hosted on AWS by MGRS
+  - deployed at [https://sentinel2.satgateway.com](https://sentinel2.satgateway.com)
+  - tile preview front-end deployed at [https://s2viewer.satgateway.com](https://s2viewer.satgateway.com)
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 
