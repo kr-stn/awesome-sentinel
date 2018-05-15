@@ -10,7 +10,7 @@ A curated list of awesome tools, tutorials and APIs related to data from the [Co
 Official datahubs and mirrors by the Copernicus partners and [Collaborative Ground Segment members](https://sentinels.copernicus.eu/web/sentinel/missions/collaborative/national-points-of-contact).
 
 - [**Copernicus Open Access Hub (SciHub)**](https://scihub.copernicus.eu/)
-- [**Australia National Mirror**](http://www.copernicus.gov.au/)
+- [**Australia National Mirror**](https://copernicus.nci.org.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
 - [**Finland National Mirror**](https://finhub.nsdc.fmi.fi/)
 - [**France National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
@@ -35,10 +35,12 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
 
 ### Cloud Providers
-Providers that host Copernicus Sentinel data and allow you to bring your own code to process it.
+Providers that host Copernicus Sentinel data and allow you to bring your own code to process it without the need to download the data.
 
-- [**Amazon Web Services (Sentinel-2)**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
-  - public S3 bucket, Sentinel-2 only, hosted in region eu-central-1 (Frankfurt)
+- [**Amazon Web Services**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
+  - Sentinel-2 L1C and L2A, Sentinel-1, hosted in region eu-central-1 (Frankfurt), requester-pays S3 buckets
+- [**EODIAS**](https://eodias.eu/)
+- full Sentinel archive, free visualization and download through [data discovery portal](http://finder.eodias.eu/www/) and [EO Browser](http://eobrowser.eodias.eu) 
 - [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
