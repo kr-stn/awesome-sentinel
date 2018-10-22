@@ -112,7 +112,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**Thematic Exploitation Platforms "TEPs"**](https://tep.eo.esa.int/)
   - platforms for finding and processing (Sentinel) data relating to a thematic topic
   - available platforms: [Coastal](https://coastal-tep.eo.esa.int/portal), [Forestry](https://forestry-tep.eo.esa.int/), [Geohazards](https://geohazards-tep.eo.esa.int/), [Hydrology](https://hydrology-tep.eo.esa.int/), [Polar](https://polar-tep.eo.esa.int/), [Urban](https://urban-tep.eo.esa.int/#!), [Food Security](https://foodsecurity-tep.eo.esa.int/)
-
+- [**USGS "Sentinel2Look"**](https://landsatlook.usgs.gov/sentinel2/viewer.html)
+    - variant of the [LandsatLook Viewer](https://landsatlook.usgs.gov/) to search and download Sentinel-2 data from the USGS archive
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
@@ -130,13 +131,14 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System)
   - toolbox for processing images for agricultural purposes
   - includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
-- [**`sentinel2-cloud-detector`**](https://github.com/sentinel-hub/sentinel2-cloud-detector)
+- [**`s2cloudless`**](https://github.com/sentinel-hub/sentinel2-cloud-detector)
   - single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
   - [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
 - [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
   - atmospheric correction of Sentinel-2 data
   - basis for [L2A](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/level-2a/algorithm) data published on Copernicus Open Access Hub
-
+- [**`sentinelgif`**](https://github.com/fredliporace/sentinelgif)
+    - create GIFs from multiple Sentinel-2 scenes in AWS public Sentinel-2 dataset
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
