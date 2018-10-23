@@ -33,6 +33,10 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
+- [**NOAA CoastWatch**](https://coastwatch.noaa.gov/)
+    - Sentinel-3 OLCI and Sentinel-2 over United States coasts
+- [**NASA Earthdata**](https://search.earthdata.nasa.gov/)
+    - search NASA mirrors for Sentinel-1, Sentinel-3, and Sentinel-5P
 
 ### Cloud Providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it without the need to download the data.
@@ -137,8 +141,6 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`Sen2Cor`**](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
   - atmospheric correction of Sentinel-2 data
   - basis for [L2A](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/level-2a/algorithm) data published on Copernicus Open Access Hub
-- [**`sentinelgif`**](https://github.com/fredliporace/sentinelgif)
-    - create GIFs from multiple Sentinel-2 scenes in AWS public Sentinel-2 dataset
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
