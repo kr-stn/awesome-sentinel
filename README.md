@@ -126,6 +126,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - atmospheric correction of Sentinel-2 data
 - [**Google Earth Engine**](https://earthengine.google.com/)
   - process the global Sentinel archives directly on Google's servers
+- [**EOS Processing**](https://processing.eos.com/)
+  - Imagery processing and analytics
+  - Neural Net–based algorithms
 - [**`iCOR`**](https://blog.vito.be/remotesensing/icor_available)
   - atmospheric correction of Sentinel-2 data
   - available as `SNAP` plugin
