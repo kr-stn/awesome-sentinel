@@ -1,0 +1,3 @@
+
+# normalize markdown text files (Convert crlf => lf)
+*.md text
