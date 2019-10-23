@@ -149,6 +149,11 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - basis for [L2A](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/level-2a/algorithm) data published on Copernicus Open Access Hub
 - [**`sen2r`**](https://github.com/ranghetti/sen2r)
   - R toolbox to search, download and pre-process Sentinel-2 data
+- [**`ACOLITE`**](https://github.com/acolite/acolite)
+  - atmospheric correction algorithms for aquatic applications of Landsat and Sentinel-2
+- [**`C2RCC`**](https://github.com/bcdev/s3tbx-c2rcc)
+  - atmospheric correction of Sentinel-3 and -2 for coast colour applications
+  - included in the `SNAP` toolbox for Sentinel-3
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
