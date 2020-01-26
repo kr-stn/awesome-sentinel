@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, tutorials and APIs related to data from the [Copernicus Sentinel Satellites](http://www.copernicus.eu/main/sentinels).
 
-![Copernicus logo](http://emergency.copernicus.eu/mapping/sites/all/themes/gmes960/images/Copernicus_fb.png)
+![Copernicus logo](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/08/copernicus_logo/12986716-3-eng-GB/Copernicus_logo.jpg)
 
 ## Data Access
 
