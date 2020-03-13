@@ -45,11 +45,21 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 - [**Amazon Web Services**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
   - Sentinel-2 L1C and L2A, Sentinel-1, hosted in region eu-central-1 (Frankfurt), requester-pays S3 buckets
 - [**CREODIAS**](https://creodias.eu/)
+  - one of 4 Copernicus Data and Information Access Services [(DIAS)](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
   - full Sentinel archive, free visualization and download through [data discovery portal](https://finder.creodias.eu/www/) and [CREODIAS Browser](http://browser.creodias.eu/) 
 - [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
+- [**MUNDI**](https://mundiwebservices.com)
+  - one of 4 Copernicus Data and Information Access Services [(DIAS)](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
+  - Sentinel archive, free visualization and download through [mundi web services](https://mundiwebservices.com/geodata/)
+- [**ONDA DIAS**](https://www.onda-dias.eu/cms/)
+  - one of 4 Copernicus Data and Information Access Services [(DIAS)](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
+  - Sentinel archive, free visualization and download through [mundi web services](https://mundiwebservices.com/geodata/)
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
   - Sentinel-2 included in commercial API
+- [**sobloo**](https://sobloo.eu)
+  - one of 4 Copernicus Data and Information Access Services [(DIAS)](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
+  - Sentinel archive, free visualization and download through [mundi web services](sobloo.eu/wui/)
 
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
@@ -163,3 +173,7 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
+- [**S2GLC  "The Land Cover Map of Europe 2017" with 10 m resolution**](http://s2glc.cbk.waw.pl/extension)
+  - Seninel-2 tiles at [CREODIAS Finder](https://finder.creodias.eu/) (collection: S2GLC)
+  - single file with mosaic of Europe in one GeoTiff file [~ 8 GB](http://users.cbk.waw.pl/~mkrupinski/S2GLC_Europe_2017_v1.1_grey.zip) 
+  - single file with mosaic of Europe in one RGB GeoTiff file [~ 16 GB](http://users.cbk.waw.pl/~mkrupinski/S2GLC_Europe_2017_v1.1_RGB.zip) 
