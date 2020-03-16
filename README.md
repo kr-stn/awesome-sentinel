@@ -175,7 +175,5 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - cloudless, [medium brightness](https://eox.at/2017/03/sentinel-2-cloudless/), [global](https://eox.at/2017/08/sentinel-2-global-cloudless-mosaic) Sentinel-2 composite
   - also provided as [WMTS Layer](https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
-- [**S2GLC  "The Land Cover Map of Europe 2017" with 10 m resolution**](http://s2glc.cbk.waw.pl/extension)
-  - Seninel-2 tiles at [CREODIAS Finder](https://finder.creodias.eu/) (collection: S2GLC)
-  - single file with mosaic of Europe in one GeoTiff file [~ 8 GB](http://users.cbk.waw.pl/~mkrupinski/S2GLC_Europe_2017_v1.1_grey.zip) 
-  - single file with mosaic of Europe in one RGB GeoTiff file [~ 16 GB](http://users.cbk.waw.pl/~mkrupinski/S2GLC_Europe_2017_v1.1_RGB.zip) 
+- [**S2GLC Land Cover Map of Europe 2017**](http://s2glc.cbk.waw.pl/extension)
+  - tiles in MGRS (Sentinel-2) available at [CREODIAS Finder](https://finder.creodias.eu/) (collection: S2GLC)
