@@ -34,6 +34,9 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**USGS EarthExplorer (Sentinel-2)**](https://earthexplorer.usgs.gov/)
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
+- [**DLR Geoservice (Sentinel-2)**](https://geoservice.dlr.de/web/)
+  - 2 years rolling archive of MAJA-corrected Sentinel-2 scenes covering Germany
+  - [Download](https://download.geoservice.dlr.de/S2_L2A_MAJA/files/)
 - [**NOAA CoastWatch**](https://coastwatch.noaa.gov/)
     - Sentinel-3 OLCI and Sentinel-2 over United States coasts
 - [**NASA Earthdata**](https://search.earthdata.nasa.gov/)
@@ -167,6 +170,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`C2RCC`**](https://github.com/bcdev/s3tbx-c2rcc)
   - atmospheric correction of Sentinel-3 and -2 for coast colour applications
   - included in the `SNAP` toolbox for Sentinel-3
+- [**`i.sentinel.mask`**](https://grass.osgeo.org/grass7/manuals/addons/i.sentinel.mask.html)
+  - GRASS GIS addon for atmospheric correction of Sentinel-2 including cloud and shadow detection
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
