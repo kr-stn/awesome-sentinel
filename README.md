@@ -35,8 +35,7 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 - [**EUMETSAT CODA (Sentinel-3 Marine Products)**](https://coda.eumetsat.int/#/home)
   - 14 day rolling archive of Sentinel-3 L1 and L2 marine products in near real-time (NRT), short time critical (STC) and non time critical (NTC) latency mode
 - [**DLR Geoservice (Sentinel-2)**](https://geoservice.dlr.de/web/)
-  - 2 years rolling archive of MAJA-corrected Sentinel-2 scenes covering Germany
-  - [Download](https://download.geoservice.dlr.de/S2_L2A_MAJA/files/)
+  - [Download](https://download.geoservice.dlr.de/S2_L2A_MAJA/files/) 2 years rolling archive of MAJA-corrected Sentinel-2 scenes covering Germany
 - [**NOAA CoastWatch**](https://coastwatch.noaa.gov/)
     - Sentinel-3 OLCI and Sentinel-2 over United States coasts
 - [**NASA Earthdata**](https://search.earthdata.nasa.gov/)
