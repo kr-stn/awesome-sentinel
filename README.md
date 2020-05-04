@@ -93,6 +93,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - API deployed at [https://sentinel2.satgateway.com](https://sentinel2.satgateway.com), tile preview front-end deployed at [https://s2viewer.satgateway.com](https://s2viewer.satgateway.com)
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
+- [**`eodag`**](https://github.com/CS-SI/eodag)
+  - command line tool and plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider
 
 ### Viewers & Portals
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
@@ -136,7 +138,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**ESRI Sentinel-2 Explorer**](https://sentinel2explorer.esri.com/)
     - view Sentinel-2 data rendered with a [number of indexes](https://www.arcgis.com/home/group.html?id=658741129719420f83d503a3ba743def#overview)
     - available as [ArcGIS ImageServer (REST)](https://sentinel.arcgis.com/arcgis/rest/services/Sentinel2/ImageServer)
-  
+
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
   - (pre-)process any Sentinel data
