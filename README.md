@@ -94,7 +94,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 - [**`eodag`**](https://github.com/CS-SI/eodag)
-  - command line tool and plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider
+  - command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/latest/intro.html#available-providers) including all DIAS
 
 ### Viewers & Portals
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
