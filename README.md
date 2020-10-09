@@ -46,6 +46,7 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
 
 - [**Amazon Web Services**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
   - Sentinel-2 L1C and L2A, Sentinel-1, hosted in region eu-central-1 (Frankfurt), requester-pays S3 buckets
+  - [Sentinel-2 L2A Cloud-Optimized GeoTIFFs](https://registry.opendata.aws/sentinel-2-l2a-cogs/), hosted in region `us-west-2` (Oregon), S3 buckets
 - [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
