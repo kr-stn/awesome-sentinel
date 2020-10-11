@@ -173,6 +173,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - included in the `SNAP` toolbox for Sentinel-3
 - [**`i.sentinel.mask`**](https://grass.osgeo.org/grass7/manuals/addons/i.sentinel.mask.html)
   - GRASS GIS addon for atmospheric correction of Sentinel-2 including cloud and shadow detection
+- [**`sat-stac-sentinel`**](https://github.com/sat-utils/sat-stac-sentinel)
+  - convert original Sentinel-1 and -2 metadata into [STAC](https://stacspec.org/) items
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
