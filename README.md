@@ -44,10 +44,14 @@ Innitiatives to integrate specific Sentinel data into existing search and discov
 ### Cloud Providers
 Providers that host Copernicus Sentinel data and allow you to bring your own code to process it without the need to download the data.
 
-- [**Amazon Web Services**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
-  - Sentinel-2 L1C and L2A, Sentinel-1, hosted in region eu-central-1 (Frankfurt), requester-pays S3 buckets
+- [**Open data on AWS**](https://registry.opendata.aws/tag/satellite-imagery/)
+  - [Sentinel-2 L1C and L2A](https://registry.opendata.aws/sentinel-2/) hosted in region `eu-central-1` (Frankfurt), requester-pays S3 buckets
   - [Sentinel-2 L2A Cloud-Optimized GeoTIFFs](https://registry.opendata.aws/sentinel-2-l2a-cogs/), hosted in region `us-west-2` (Oregon), S3 buckets
-  - [STAC Browser](https://sentinel.stac.cloud/?t=catalogs) for Sentinel-2 COG hosted on AWS
+    - [STAC Browser](https://sentinel.stac.cloud/?t=catalogs) for Sentinel-2 COG hosted on AWS
+  - [Sentinel-1 GRD](https://registry.opendata.aws/sentinel-1/) hosted in region `eu-central-1` (Frankfurt), requester-pays S3 buckets
+  - [Sentinel-1 ARD CONUS](https://registry.opendata.aws/sentinel-1-rtc-indigo/) - analysis ready dataset of Sentinel-1, tiled COGs, for contiguous United States
+  - [Sentinel-3 NRT, STC, NTC, COG](https://registry.opendata.aws/sentinel-3/) - all Sentinel-3 products for near-real time, short time critical and not time critical, all products also available converted to COGs
+  - [Sentinel-5P L2](https://registry.opendata.aws/sentinel5p/) -  all Level-2 products from Sentinel-5P, also available as COG converted data
 - [**Google (Sentinel-2)**](https://cloud.google.com/storage/docs/public-datasets/sentinel-2)
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
