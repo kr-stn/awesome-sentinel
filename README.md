@@ -24,7 +24,7 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**United Kingdom National Mirror (SEDAS)**](http://sedas.satapps.org/)
 
 ### Partial Mirrors
-Innitiatives to integrate specific Sentinel data into existing search and discovery platforms.
+Initiatives to integrate specific Sentinel data into existing search and discovery platforms.
 
 - [**Alaska Satellite Facility (Sentinel-1)**](https://www.asf.alaska.edu/sentinel/)
 - [**Centre for Environmental Data Analysis - CEDA (Sentinel-1, -2)**](http://catalogue.ceda.ac.uk/search/?search_term=sentinel&return_obj=ob&search_obj=ob)
