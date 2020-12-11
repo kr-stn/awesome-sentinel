@@ -111,7 +111,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
   - viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
   - based on [resto](https://github.com/jjrom/resto) search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
-- [**mundialis "EO-me"**](http://eome.mundialis.de/eome/client/index.html)
+- [**mundialis "EO-me"**](https://www.mundialis.de/en/earth-observation-metadata-enhancer/)
   - viewer for Sentinel-2 and Landsat-8 data with custom metadata filters
   - satellite tiles enriched with additional metadata (e.g. terrain statistics, NDVI at overpass, climatic parameters, population count)
 - [**OceanDataLab**](https://www.oceandatalab.com)
