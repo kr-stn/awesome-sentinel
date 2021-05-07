@@ -181,7 +181,10 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - GRASS GIS addon for atmospheric correction of Sentinel-2 including cloud and shadow detection
 - [**`sat-stac-sentinel`**](https://github.com/sat-utils/sat-stac-sentinel)
   - convert original Sentinel-1 and -2 metadata into [STAC](https://stacspec.org/) items
-
+- [**`xsar`**](https://github.com/oarcher/xsar)
+  -  Sentinel-1 Level 1 python reader for efficient xarray/dask based processor
+  -  Denoising and calibration luts applied
+ 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
 
