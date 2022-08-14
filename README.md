@@ -12,6 +12,7 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**Copernicus Open Access Hub (SciHub)**](https://scihub.copernicus.eu/)
 - [**Australia National Mirror**](https://copernicus.nci.org.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
+- [**Czech Rebublic National Mirror**](https://dhr1.cesnet.cz/#/home)
 - [**Finland National Mirror**](https://finhub.nsdc.fmi.fi/)
 - [**France National Mirror (PEPS)**](https://peps.cnes.fr/rocket/)
 - [**Germany National Mirror (CODE-DE)**](https://code-de.org/)
