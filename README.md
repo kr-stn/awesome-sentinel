@@ -100,7 +100,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**`sentinel2_aws`**](https://github.com/beaorn/sentinel2_aws)
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 - [**`eodag`**](https://github.com/CS-SI/eodag)
-  - command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/latest/intro.html#available-providers) including all DIAS
+  - command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 - [**`sentinelloader`**](https://github.com/flaviostutz/sentinelloader)
   - Sentinel-2 satellite tiles images downloader from Copernicus. Minimizes data download and combines multiple tiles to return a single area of interest
 
