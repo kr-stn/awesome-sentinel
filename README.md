@@ -20,7 +20,6 @@ Official datahubs and mirrors by the Copernicus partners and [Collaborative Grou
 - [**Luxembourg National Mirror**](https://www.collgs.lu/)
 - [**Norway National Mirror**](https://colhub.met.no/#/home)
 - [**Portugal National Mirror**](https://ipsentinel.ipma.pt/dhus/#/home)
-- [**Sweden National Mirror (SWEA)**](http://swea.rymdstyrelsen.se/portal/)
 - [**United Kingdom National Mirror (SEDAS)**](http://sedas.satapps.org/)
 
 ### Partial Mirrors
