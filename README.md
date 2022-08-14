@@ -185,7 +185,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - convert original Sentinel-1 and -2 metadata into [STAC](https://stacspec.org/) items
 - [**`EOReader`**](https://github.com/sertit/eoreader)
   - Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
-
+- [**`xsar`**](https://github.com/umr-lops/xsar)
+  -  read Sentinel-1 data into xarray for further processing
+ 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
 
