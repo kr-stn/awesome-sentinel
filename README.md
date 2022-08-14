@@ -101,6 +101,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - Ruby gem for parsing Sentinel-2 metadata from AWS
 - [**`eodag`**](https://github.com/CS-SI/eodag)
   - command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
+- [**`sentinelloader`**](https://github.com/flaviostutz/sentinelloader)
+  - Sentinel-2 satellite tiles images downloader from Copernicus. Minimizes data download and combines multiple tiles to return a single area of interest
 
 ### Viewers & Portals
 - [**AWS/Sinergise "Sentinel Image Browser"**](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/browser.html)
@@ -181,6 +183,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - GRASS GIS addon for atmospheric correction of Sentinel-2 including cloud and shadow detection
 - [**`sat-stac-sentinel`**](https://github.com/sat-utils/sat-stac-sentinel)
   - convert original Sentinel-1 and -2 metadata into [STAC](https://stacspec.org/) items
+- [**`EOReader`**](https://github.com/sertit/eoreader)
+  - Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
 
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
