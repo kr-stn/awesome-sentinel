@@ -117,13 +117,6 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - satellite tiles enriched with additional metadata (e.g. terrain statistics, NDVI at overpass, climatic parameters, population count)
 - [**OceanDataLab**](https://www.oceandatalab.com)
   - portals focussing on Ocean Remote Sensing data, including Sentinel-1 and 3
-- [**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)
-  - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
-  - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
-- [**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)
-  - [open source](https://github.com/RemotePixel/satellitesearch) Browser for Landsat-8 and Sentinel-2 data hosted by AWS
-  - supports on-the-fly display and calculation of band combinations
-  - uses [**`remotepixel-api`**](https://github.com/RemotePixel/remotepixel-api) (based on AWS Lambda)
 - [**Research and User Support (RUS)**](https://rus-copernicus.eu/)
   - service portal to promote the uptake of Copernicus data and scaling of R&D activities
   - provides [training](https://rus-copernicus.eu/portal/the-rus-offer/training/) and [computing environments](https://rus-copernicus.eu/portal/the-rus-offer/ict-offer/)
@@ -145,6 +138,14 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**ESRI Sentinel-2 Explorer**](https://sentinel2explorer.esri.com/)
     - view Sentinel-2 data rendered with a [number of indexes](https://www.arcgis.com/home/group.html?id=658741129719420f83d503a3ba743def#overview)
     - available as [ArcGIS ImageServer (REST)](https://sentinel.arcgis.com/arcgis/rest/services/Sentinel2/ImageServer)
+
+- ~~[**RemotePixel "Viewer"**](https://viewer.remotepixel.ca)~~ **(no longer active)**
+  - [open source](https://github.com/RemotePixel/viewer.remotepixel.ca) viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS
+  - uses [**`sentinel-tiler`**](https://github.com/mapbox/sentinel-tiler) (tiles server based on AWS Lambda)
+- ~~[**RemotePixel "Satellite Search"**](https://remotepixel.ca/projects/satellitesearch.html)~~ **(no longer active)**
+  - [open source](https://github.com/RemotePixel/satellitesearch) Browser for Landsat-8 and Sentinel-2 data hosted by AWS
+  - supports on-the-fly display and calculation of band combinations
+  - uses [**`remotepixel-api`**](https://github.com/RemotePixel/remotepixel-api) (based on AWS Lambda)
 
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
