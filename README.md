@@ -10,6 +10,7 @@ A curated list of awesome tools, tutorials and APIs related to data from the [Co
 Official datahubs and mirrors by the Copernicus partners and [Collaborative Ground Segment members](https://sentinels.copernicus.eu/web/sentinel/missions/collaborative/national-points-of-contact).
 
 - [**Copernicus Open Access Hub (SciHub)**](https://scihub.copernicus.eu/)
+- [**Copernicus Data Space Ecosystem**](https://dataspace.copernicus.eu)
 - [**Australia National Mirror**](https://copernicus.nci.org.au/)
 - [**Austria National Mirror**](https://data.sentinel.zamg.ac.at/)
 - [**Czech Rebublic National Mirror**](https://dhr1.cesnet.cz/#/home)
