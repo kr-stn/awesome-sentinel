@@ -145,6 +145,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**ESRI Sentinel-2 Explorer**](https://sentinel2explorer.esri.com/)
     - view Sentinel-2 data rendered with a [number of indexes](https://www.arcgis.com/home/group.html?id=658741129719420f83d503a3ba743def#overview)
     - available as [ArcGIS ImageServer (REST)](https://sentinel.arcgis.com/arcgis/rest/services/Sentinel2/ImageServer)
+- [**Open Earth Observation Hub**](https://openeohub.ggcr.es/)
+  - [Open Source](https://github.com/ggcr/open-EO-hub) modern Front-End website to search, filter and download data from multiple providers.
 
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
