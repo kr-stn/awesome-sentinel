@@ -55,6 +55,8 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
   - Sentinel-2 included in commercial API
+- [**Microsoft Planetary Computer**](https://planetarycomputer.microsoft.com)
+  - offers many EO catalogs as COGs, including [Sentinel-2 L2A](https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a) data. provides a STAC-API. data can be obtained free of charge, but must be signed with a [SAS token](https://planetarycomputer.microsoft.com/docs/concepts/sas/).
 
 ### DIAS
 [Data and Information Access Services (DIAS)](https://www.copernicus.eu/en/access-data/dias), funded by the European Commission "providing  centralised  access  to  Copernicus  data  and  information,  as  well as to processing tools"
