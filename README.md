@@ -186,6 +186,8 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   - Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
 - [**`xsar`**](https://github.com/umr-lops/xsar)
   -  read Sentinel-1 data into xarray for further processing
+- [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force)
+  - Generate analysis ready data for Sentinel-2 and Landsat-4/5/7/8/9 (including atmospheric correction and homogenization of Sentinel-2 and Landsat data)
  
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
