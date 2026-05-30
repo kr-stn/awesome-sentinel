@@ -202,3 +202,6 @@ Products, datasets and applications generated from Copernicus Sentinel data.
   - [original GeoTIFF tiles](https://eox.at/2017/03/sentinel-2-cloudless-original-tiles-available/) provided on AWS S3 bucket
 - [**S2GLC Land Cover Map of Europe 2017**](http://s2glc.cbk.waw.pl/extension)
   - tiles in MGRS (Sentinel-2) available at [CREODIAS Finder](https://finder.creodias.eu/) (collection: S2GLC)
+- [**Leaves.PH**](https://leaves.ph)
+  - annual tree-canopy cover for Metro Manila derived from Sentinel-2 L2A composites, mapped per LGU and per barangay from 2019 to 2026
+  - open and reproducible, [source code](https://github.com/xmpuspus/leaves-ph)
