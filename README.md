@@ -192,6 +192,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   -  read Sentinel-1 data into xarray for further processing
 - [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force)
   - Generate analysis ready data for Sentinel-2 and Landsat-4/5/7/8/9 (including atmospheric correction and homogenization of Sentinel-2 and Landsat data)
+- [**`synapse-sr`**](https://github.com/SharadhNaidu/synapse-sr)
+  - super-resolution of Sentinel-2 L2A from 10 m to 2 m, consistent with the original measurement
+  - per-pixel trust map and calibrated uncertainty, runs on CPU or GPU
  
 ## Products
 Products, datasets and applications generated from Copernicus Sentinel data.
